@@ -10,6 +10,7 @@ pubilc outrage                          公愤
 a circular table                        圆桌
 nomadic lifestyle                       流浪生活
 confer a title on you                   授予头衔
+bestow sth on sb                        把...授予某人
 high intelligence                       高智商
 by convention                           按惯例
 silversmith                             银匠
@@ -20,6 +21,7 @@ satiric techniques                      讽刺艺术
 gibe                                    嘲笑
 sardonic smile                          轻蔑的微笑
 scorn an idea                           鄙视一个想法
+open a scroll                           打开卷轴
 motley milieu                           混杂的社会背景、环境
 that is an ultimatum                    这是最后通牒
 a notable alchemist                     一个著名的炼金术士
@@ -47,10 +49,12 @@ groom a horse                           洗漱马桶
 polish shoes                            擦鞋
 shoe polish                             鞋油
 a key ingredient                        关键配料
+a principal ingredient                  主要配料
 fishing tournament                      钓鱼锦标赛
 highly revered                          高度尊崇
 dramatized in the move                  改编成电影
 a rescue team                           救援队
+    secure place                        安全的地方
 an intricate pattern                    繁复的图案
 bode well for sb/sth                    吉兆
 anticipate a change                     预料有变化
@@ -59,8 +63,10 @@ a dim light                             微弱的光
 appreciate your honesty                 欣赏你的诚实
 give her a glare                        瞪了她一眼
 a salt marsh                            盐碱滩
+a weird smell                           古怪的味道
 foul air                                难闻的空气
 air pollutants                          空气污染物
+contamination water                     水污染
 a multiple-choice question              选择题
 the siege of a city                     对城市的围困
 British accent                          英式口音
@@ -71,12 +77,16 @@ constrain development                   限制发展
 pest control                            病虫防治
 incentive to innovate                   创新的动力
 highly corrosive                        较高的腐蚀性
+a sign of corrosion                     腐蚀的标记
 a picky eater                           挑食的人
 a durable solution                      长久之计
 jot down                                匆匆记下
 a prudent decision                      慎重的决定
 rectangle                               长方形
 beautiful lyric                         优美的歌词
+romantic verse                          浪漫的诗句
+romantic poem                           浪漫的诗
+romantic poetry                         浪漫的诗集
 pull weeds                              拔草
 spray pesticides                        喷洒杀虫剂
 persistent effort                       执着的努力
@@ -85,33 +95,42 @@ igneous rocks                           火山岩
 an unpaid internship                    无薪实习
 be exclusive to the rich                富人独享的
 a tranquil village                      宁静的村庄
-a nude model                            裸体模特
+a quiet village                         宁静的村庄
+a disquiet city                             
+a the elasticity of the epidermis       表皮的弹性
+nude model                              裸体模特
 gradual assimilation                    逐步同化
 ratify an agreement                     批准协议
 oyster sauce                            蚝油
+an armed conflict                       武装冲突
+cause controversy                       引起争议
+make a remark                           发表评论
+the elasticity of the epidimic          表皮的弹性
+beg for mercy                           祈求宽恕
+a towering skyscraper                   高耸的摩天大楼
+the spur on my boot                     靴子上的马刺
+muggy day today                         闷热的天气
+posit/deposit                           假设/定金
+fantasy and reality                     幻想与现实
+a rebellious stage                      叛逆期
+a beer barrel                           啤酒桶
+a resolute man                          坚定的人
+mental health                           心理健康
+a plump face                            胖乎乎的脸蛋
+telescope/binocle                       单桶、双桶望远镜
+political turmoil                       政治动荡
+spoil quickly                           迅速变质
+absorb moisture                         吸收水分
+he nodded assent                        他点头同意了
+a stout door                            结实的门
+infuriate/irritate                      激怒
+consolidate your position               巩固地位
+pave a road                             铺路
+adventitious event                      偶然事件
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
