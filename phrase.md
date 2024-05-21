@@ -52,6 +52,7 @@ a key ingredient                        关键配料
 a principal ingredient                  主要配料
 fishing tournament                      钓鱼锦标赛
 highly revered                          高度尊崇
+is highly laudable                      是高度赞扬的
 dramatized in the move                  改编成电影
 a rescue team                           救援队
     secure place                        安全的地方
@@ -66,7 +67,7 @@ a salt marsh                            盐碱滩
 a weird smell                           古怪的味道
 foul air                                难闻的空气
 air pollutants                          空气污染物
-contamination water                     水污染
+water contamination  (n)                水污染
 a multiple-choice question              选择题
 the siege of a city                     对城市的围困
 British accent                          英式口音
@@ -127,6 +128,11 @@ infuriate/irritate                      激怒
 consolidate your position               巩固地位
 pave a road                             铺路
 adventitious event                      偶然事件
+a gigantic storm                        巨大的风暴
+flora and fauna                         动植物群
+a gold medal                            金牌
+encounter opposition                    遭遇反对
+corn flake                              玉米薄片
 
 
 
