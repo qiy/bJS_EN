@@ -1,5 +1,6 @@
 fill in a questionnaire                 填写调查问卷
 preliterate culture                     无文字的文化
+penetrate a wall                        穿过一堵墙
 knock the nail into the wall            敲击钉子进入墙里
           nail clippers                 指甲剪
 your field of expertise                 你的专业技术 领域
@@ -20,7 +21,7 @@ satiric comedy                          讽刺喜剧的
 satiric techniques                      讽刺艺术
 gibe                                    嘲笑
 sardonic smile                          轻蔑的微笑
-scorn an idea                           鄙视一个想法
+scorn an absurd idea                    鄙视一个想法
 open a scroll                           打开卷轴
 motley milieu                           混杂的社会背景、环境
 that is an ultimatum                    这是最后通牒
@@ -133,10 +134,18 @@ flora and fauna                         动植物群
 a gold medal                            金牌
 encounter opposition                    遭遇反对
 corn flake                              玉米薄片
-
-
-
- 
+a family reunion                        家庭聚会
+be enveloped in fog                     笼罩在雾里
+thrust money into your hands            把钱塞到你首例
+laundry detergent                       洗衣粉
+sign a lease                            签租约
+finalize the details                    敲定细节
+bare feet                               光着脚
+a cooperative partnership               合作伙伴关系
+exhale slowly                           呼吸
+the bulk of sth                         ...的主体
+offset costs                            抵消成本
+avoid ambiguity                         避免歧义
 
 
 
